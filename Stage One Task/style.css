@@ -1,0 +1,33 @@
+
+
+.body{
+    text-align:center ;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ebebf1;
+
+}
+.section{
+    display: block;
+}
+
+.h1{
+    color: rgb(19, 19, 26);
+    font-family: verdana;
+    font-size: 200%;
+}
+.h5{
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+}
+.p{
+    padding: 30px;
+    border: 2px solid rgb(7, 27, 29);
+    margin:50px;
+}
+.img{
+    width:128px;
+    height:128px;
+    border-radius: 8px;
+}
